@@ -2,6 +2,7 @@
 프로그래머스 코딩 테스트 완주에 대한 정답을 모아두었습니다.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TISTORY](https://img.shields.io/badge/tistory-tistory?style=for-the-badge&logo=tistory&color=%23f54&link=https%3A%2F%2Fbbbbabbbababababa.tistory.com%2Fcategory%2F%25EA%25B0%259C%25EB%25B0%259C%25EC%259D%25BC%25EC%25A7%2580%2F%25EC%25BD%2594%25ED%2585%258C%25EB%259F%25B0)
 
 # Day 1
 - 문자열 출력하기
