@@ -4,11 +4,7 @@ class Solution {
     public int solution(int[] num_list) {
         int answer = 0;
         for(int i = 0; i < num_list.length; i++) {
-            int idx = 1;
-            while(Math.pow(2,idx) <= num_list[i]) {
-                idx++;
-                answer++;
-            }
+            answer += (int) (Math.log(num_list[i]) / Math.log(2));
         }
         return answer;
     }
