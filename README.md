@@ -6,6 +6,8 @@
 [![TISTORY](https://img.shields.io/badge/tistory-tistory?style=for-the-badge&logo=tistory&color=%23f54)](https://bbbbabbbababababa.tistory.com/category/개발일지/코테런)
 
 # 코딩 기초 트레이닝
+<img width="956" height="1414" alt="코딩 기초 트레이닝 캘린더" src="https://github.com/user-attachments/assets/a28144fb-29c5-4cce-a95c-c74c577bf5c0" />
+
 
 ## Day 1
 
