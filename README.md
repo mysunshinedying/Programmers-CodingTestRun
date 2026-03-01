@@ -5,6 +5,68 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 [![TISTORY](https://img.shields.io/badge/tistory-tistory?style=for-the-badge&logo=tistory&color=%23f54)](https://bbbbabbbababababa.tistory.com/category/개발일지/코테런)
 
+---
+
+
+# LV 0
+## 코딩 테스트 입문
+- [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)
+
+
+# LV 1
+
+## 연습문제
+
+- [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
+- [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) 
+- [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)
+- [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) 
+- [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
+- [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
+- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+- [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
+- [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)
+- [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
+- [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
+- [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) 
+- [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) 
+- [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
+- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)- 
+- [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
+
+
+## 월간 코드 챌린지 시즌 1
+- [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
+
+## 월간 코드 챌린지 시즌3
+
+- [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
+
+---
+
+# LV 2
+
+## 연습문제
+
+- [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+
+## 2017 팁스타운
+
+- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+
+
+---
+# 알고리즘 문제 해설
+- [나머지 한 점](https://school.programmers.co.kr/learn/courses/18/lessons/1878)
+- [단어 퍼즐](https://school.programmers.co.kr/learn/courses/18/lessons/1882)
+- [순열검사](https://school.programmers.co.kr/learn/courses/18/lessons/1877)
+- [자릿수 더하기](https://school.programmers.co.kr/learn/courses/18/lessons/1876)
+
+
+
+---
+
 # 코딩 기초 트레이닝
 <img width="956" height="1414" alt="코딩 기초 트레이닝 캘린더" src="https://github.com/user-attachments/assets/a28144fb-29c5-4cce-a95c-c74c577bf5c0" />
 
@@ -198,42 +260,11 @@
 - l로 만들기
 - 특별한 이차원 배열 1
 
+## Day 25
+- 정수를 나선형으로 배치하기
+- 특별한 이차원 배열 2
+- 정사각형으로 만들기
+- 이차원 배열 대각선 순회하기
 
 
 ---
-
-# LV 1
-
-## 연습문제
-
-- 서울에서 김서방 찾기
-- 과일 장수
-- 숫자 짝꿍
-- 짝수와 홀수
-- 핸드폰 번호 가리기
-- 달리기 경주
-- 두 정수 사이의 합
-- 자릿수 더하기
-- 자연수 뒤집어 배열로 만들기
-- 정수 제곱근 판별
-- 하샤드 수
-- 정수 내림차순으로 배치하기
-- 약수의 합
-- 문자열을 정수로 바꾸기
-- x만큼 간격이 있는 n개의 숫자
-
-## 월간 코드 챌린지 시즌3
-
-- 나머지가 1이 되는 수 찾기
-
----
-
-# LV 2
-
-## 연습문제
-
-- 혼자 놀기의 달인
-
-## 2017 팁스타운
-
-- 예상 대진표
