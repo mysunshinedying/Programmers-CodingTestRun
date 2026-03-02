@@ -3,7 +3,7 @@
 프로그래머스 코딩 테스트 완주에 대한 정답을 모아두었습니다.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[![TISTORY](https://img.shields.io/badge/tistory-tistory?style=for-the-badge&logo=tistory&color=%23f54)](https://bbbbabbbababababa.tistory.com/category/개발일지/코테런)
+[![TISTORY](https://img.shields.io/badge/tistory-tistory?style=for-the-badge&logo=tistory&color=%23f54)](https://bbbbabbbababababa.tistory.com/category/%EC%BD%94%ED%85%8C%EB%9F%B0/Programmers)
 
 ---
 
@@ -32,7 +32,7 @@
 - [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) 
 - [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) 
 - [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
-- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)- 
+- [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) 
 - [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
 
 
@@ -69,6 +69,8 @@
 
 # 코딩 기초 트레이닝
 <img width="956" height="1414" alt="코딩 기초 트레이닝 캘린더" src="https://github.com/user-attachments/assets/a28144fb-29c5-4cce-a95c-c74c577bf5c0" />
+
+[![TISTORY](https://img.shields.io/badge/tistory-tistory?style=for-the-badge&logo=tistory&color=%23f54)](https://bbbbabbbababababa.tistory.com/category/%EC%BD%94%ED%85%8C%EB%9F%B0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D%28%EC%99%84%EC%A3%BC%29)
 
 
 ## Day 1
