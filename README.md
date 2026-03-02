@@ -40,8 +40,10 @@
 - [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
 
 ## 월간 코드 챌린지 시즌3
-
 - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
+
+## PCCP 기출문제
+- [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
 
 ---
 
