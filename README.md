@@ -2,6 +2,7 @@
 
 프로그래머스 코딩 테스트 완주에 대한 정답을 모아두었습니다.
 
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 [![TISTORY](https://img.shields.io/badge/tistory-tistory?style=for-the-badge&logo=tistory&color=%23f54)](https://bbbbabbbababababa.tistory.com/category/%EC%BD%94%ED%85%8C%EB%9F%B0/Programmers)
 
@@ -12,9 +13,9 @@
 ## 코딩 테스트 입문
 - [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)
 
+---
 
 # LV 1
-
 ## 연습문제
 
 - [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
@@ -34,7 +35,11 @@
 - [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
 - [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) 
 - [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
+- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+- [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)
 
+## PCCP 기출문제
+- [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
 
 ## 월간 코드 챌린지 시즌 1
 - [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
@@ -42,21 +47,20 @@
 ## 월간 코드 챌린지 시즌3
 - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
 
-## PCCP 기출문제
-- [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
+## 해시
+- [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 
 ---
 
 # LV 2
-
 ## 연습문제
-
 - [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
 
 ## 2017 팁스타운
-
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
 
+## 스택/큐
+- [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 
 ---
 # 알고리즘 문제 해설
@@ -64,8 +68,6 @@
 - [단어 퍼즐](https://school.programmers.co.kr/learn/courses/18/lessons/1882)
 - [순열검사](https://school.programmers.co.kr/learn/courses/18/lessons/1877)
 - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/18/lessons/1876)
-
-
 
 ---
 
