@@ -50,6 +50,9 @@
 ## 해시
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 
+## 2025 프로그래머스 코드챌린지 1차 예선
+- [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)
+
 ---
 
 # LV 2
