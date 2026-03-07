@@ -33,6 +33,7 @@
 - [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) 
 - [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) 
 - [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
+- [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 - [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) 
 - [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
 - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
@@ -53,6 +54,10 @@
 ## 2025 프로그래머스 코드챌린지 1차 예선
 - [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)
 
+## 스택/큐
+- [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+
+
 ---
 
 # LV 2
@@ -64,6 +69,7 @@
 
 ## 스택/큐
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+- [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 
 ---
 # 알고리즘 문제 해설
