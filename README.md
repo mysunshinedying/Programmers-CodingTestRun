@@ -57,12 +57,16 @@
 ## 스택/큐
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 
+## 2023 KAKAO BLIND RECRUITMENT
+- [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+
 
 ---
 
 # LV 2
 ## 연습문제
 - [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 
 ## 2017 팁스타운
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
