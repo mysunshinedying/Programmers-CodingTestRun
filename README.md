@@ -68,6 +68,8 @@
 - [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
 - [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+- [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 
 ## 2017 팁스타운
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
