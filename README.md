@@ -60,6 +60,8 @@
 ## 2023 KAKAO BLIND RECRUITMENT
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
+## 탐욕법(Greedy)
+- [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 
 ---
 
@@ -70,6 +72,7 @@
 - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 - [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+- [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 
 ## 2017 팁스타운
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
@@ -84,6 +87,13 @@
 - [단어 퍼즐](https://school.programmers.co.kr/learn/courses/18/lessons/1882)
 - [순열검사](https://school.programmers.co.kr/learn/courses/18/lessons/1877)
 - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/18/lessons/1876)
+
+---
+
+# LV 3
+## 연습문제
+- [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
+
 
 ---
 
