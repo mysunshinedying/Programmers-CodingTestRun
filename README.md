@@ -73,6 +73,7 @@
 - [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 - [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+- [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 
 ## 2017 팁스타운
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
