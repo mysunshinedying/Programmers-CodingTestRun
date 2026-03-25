@@ -74,6 +74,7 @@
 - [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+- [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 
 ## 2017 팁스타운
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
@@ -81,6 +82,12 @@
 ## 스택/큐
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+
+## 2019 KAKAO BLIND RECRUITMENT
+- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+
+## 정렬
+- [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 
 ---
 # 알고리즘 문제 해설
