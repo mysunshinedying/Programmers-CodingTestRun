@@ -38,6 +38,8 @@
 - [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
 - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
 - [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)
+- [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
+- [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
 
 ## PCCP 기출문제
 - [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
@@ -78,6 +80,7 @@
 
 ## 2017 팁스타운
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+- [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
 
 ## 스택/큐
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
