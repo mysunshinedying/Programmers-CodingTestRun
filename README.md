@@ -41,6 +41,7 @@
 - [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
 - [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
 - [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
+- [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 
 ## PCCP 기출문제
 - [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
