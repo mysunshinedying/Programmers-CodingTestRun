@@ -42,12 +42,16 @@
 - [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
 - [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
 - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
+- [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+- [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
 
 ## PCCP 기출문제
 - [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
 
 ## 월간 코드 챌린지 시즌 1
 - [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
+- [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
+- [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
 
 ## 월간 코드 챌린지 시즌3
 - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
@@ -66,6 +70,9 @@
 
 ## 탐욕법(Greedy)
 - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+
+## 2021 Dev-Matching 웹 백엔드 개발자
+- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
 
 ---
 
