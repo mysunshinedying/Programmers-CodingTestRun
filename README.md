@@ -45,6 +45,7 @@
 - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
 - [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
 - [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
+- [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
 
 ## PCCP 기출문제
 - [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
@@ -68,6 +69,9 @@
 
 ## 2023 KAKAO BLIND RECRUITMENT
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+
+## 2022 KAKAO BLIND RECRUITMENT
+- [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 
 ## 탐욕법(Greedy)
 - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
