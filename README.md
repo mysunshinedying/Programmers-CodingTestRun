@@ -79,6 +79,9 @@
 ## 2021 Dev-Matching 웹 백엔드 개발자
 - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
 
+## 2025 카카오 하반기 1차
+- [중요한 단어를 스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370)
+
 ---
 
 # LV 2
