@@ -109,6 +109,9 @@
 ## 정렬
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 
+## 힙
+- [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=java)
+
 ---
 # 알고리즘 문제 해설
 - [나머지 한 점](https://school.programmers.co.kr/learn/courses/18/lessons/1878)
